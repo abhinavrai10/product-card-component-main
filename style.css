@@ -83,13 +83,6 @@ button {
   button:hover {
     background-color: #023120; }
 
-.attribution {
-  font-size: 11px;
-  text-align: center;
-  margin-top: 5rem; }
-  .attribution a {
-    color: #3e52a3; }
-
 @media (max-width: 620px) {
   .card {
     flex-wrap: wrap;
